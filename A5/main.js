@@ -11,6 +11,9 @@ const forbiddenWords = [
   "payment",
   "payments",
   "list",
+  "Payment",
+  "Payments",
+  "List",
 ];
 
 const wordCountHandler = () => {

@@ -50,11 +50,12 @@ header h1 {
 }
 
 header a {
-  color: rgb(255, 255, 255);
-  background-color: rgba(39, 137, 250, 0.596);
+  color: gold;
+  background-color: rgba(18, 125, 248, 0.8);
   display: inline-block;
   padding: 0.5rem 1.5rem;
   border-radius: 10px;
+  font-size: 1.7rem;
 }
 
 .container {
